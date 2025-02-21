@@ -1,7 +1,7 @@
 GenAI RAG Chat Application
 Next.js | Google Gemini | Vector Database | Web Scraping
 
-📌 Overview
+Overview
 This project is a Retrieval-Augmented Generation (RAG) chat application that allows users to:
 ✅ Input URLs to scrape content.
 ✅ Convert the extracted text into vector embeddings.
@@ -9,7 +9,7 @@ This project is a Retrieval-Augmented Generation (RAG) chat application that all
 ✅ Use Google Gemini API to generate intelligent responses based on retrieved content.
 ✅ Interact with a chatbot in a modern web interface.
 
-🛠 Tech Stack
+Tech Stack
 Frontend:
 Next.js 15 (React-based framework)
 Tailwind CSS (for UI styling)
